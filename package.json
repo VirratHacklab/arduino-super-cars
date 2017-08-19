@@ -1,0 +1,29 @@
+{
+  "name": "arduino-super-cars",
+  "version": "1.0.0",
+  "description": "Super Cars and Logo inspired library for controlling an RC car",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VirratHacklab/arduino-super-cars.git"
+  },
+  "keywords": [
+    "super",
+    "cars",
+    "amiga",
+    "hacklab",
+    "logo"
+  ],
+  "author": "Antti Rintala <antti@virrat.hacklab.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VirratHacklab/arduino-super-cars/issues"
+  },
+  "homepage": "https://github.com/VirratHacklab/arduino-super-cars#readme",
+  "engines" : {
+    "node" : ">=6.11.2"
+  }
+}
